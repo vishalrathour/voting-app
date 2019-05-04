@@ -1,6 +1,6 @@
 # voting-app
 
-this is a moview voting app.
+this is a movie voting app.
 you can vote on any movie but after login.
 this contains two types of users admin and normal users, admin can perform task like create new polls, create users , delete polls ans delete users.
 normal users can vote after login.
