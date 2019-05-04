@@ -20,7 +20,7 @@ cd de press tabs
 if you set path -- then type this commond for running app
 1. python database  -- inti for database
 2. python poll.py 
-flask run
+3. flask run
 
 than paste this url on your browser --- http://localhost:3030/
 
