@@ -14,7 +14,8 @@ after install successfully
 then enter
 1. go to path which your project folder contain using cd commonds like
 
-like going for deskto -- cd de prsee tabs
+like going for deskto -- 
+cd de press tabs
 
 if you set path -- then type this commond for running app
 1. python database  -- inti for database
