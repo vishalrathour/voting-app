@@ -25,5 +25,10 @@ if you set path -- then type this commond for running app
 than paste this url on your browser --- http://localhost:3030/
 
 
-
+Lounch application on heroku
+1. go to heroku website
+2. create account and login
+3. chose pyhton 
+4. upload from git enter username and password
+and flow above methode to run code.
 
