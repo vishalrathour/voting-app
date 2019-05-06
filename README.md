@@ -7,7 +7,12 @@ normal users can vote after login.
 
 Running this app follow this simple steps.
 just go window powershell and type this commond
-1. easy_install python   --for installing python
+1. for installing pyhton -- go to https://www.python.org/
+and download setup and install after install -- you can check install verison from window power shell --
+you can check how to install python throw this link -- https://www.youtube.com/watch?v=dX2-V2BocqQ
+
+commonds -- python --version
+than install flask.
 2. easy_install flask    -- for installing pyhton
 
 after install successfully 
