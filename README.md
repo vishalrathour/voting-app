@@ -13,6 +13,7 @@ you can check how to install python throw this link -- https://www.youtube.com/w
 
 commonds -- python --version
 than install flask.
+
 2. easy_install flask    -- for installing pyhton
 
 after install successfully 
